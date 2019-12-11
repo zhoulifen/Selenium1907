@@ -18,7 +18,7 @@ public class SendEmailTest {
 @Test
 public void sendEmailTestCase() throws InterruptedException {
    //     SendEmailTest.openChrome();
-    SendEmailTest.loginSuccess(driver,"1174452872","zlf11223344");
+    SendEmailTest.loginSuccess(driver,"1174452872","zlf1122334");
 //    SendEmailTest.closed(driver);
     }
 
